@@ -3,5 +3,4 @@ pandas
 scikit-learn
 matplotlib
 st-annotated-text
-streamlit-extra
 openpyxl
